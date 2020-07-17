@@ -17,7 +17,7 @@
     "vue": "^2.5.16"
   },
   "dependencies": {
-    "less": "^2.7.3",
+    "less": "^3.0.2",
     "less-loader": "^4.1.0",
     "mozjpeg": "^5.0.0",
     "optipng": "^1.1.0",
