@@ -19,8 +19,8 @@
   "dependencies": {
     "less": "^2.7.3",
     "less-loader": "^4.1.0",
-    "mozjpeg": "^5.0.0",
-    "optipng": "^1.1.0",
+    "mozjpeg": "^6.0.1",
+    "optipng": "^2.0.0",
     "purify-css": "^1.2.6",
     "purifycss-webpack": "^0.7.0",
     "vue-dragula": "^2.0.0-alpha"
